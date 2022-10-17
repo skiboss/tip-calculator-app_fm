@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [tip-calculator-app-files](https://github.com/skiboss/tip-calculator-app_fm)
-- Live Site URL: [tip-calulator-site](https://skiboss.github.io/tip-calculator-app_fm/)
+- Live Site URL: [tip-calculator-site](https://skiboss.github.io/tip-calculator-app_fm/)
 
 ## My process
 - Draft out how I want the layout to look
