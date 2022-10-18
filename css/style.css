@@ -155,7 +155,7 @@ html, body {
 
 .calc-right {
     background-color: hsl(183, 100%, 15%);
-    padding: 2rem 1.5rem;
+    padding: 2.8rem 2.5rem;
     border-radius: var(--border-radius);
     display: flex;
     flex-direction: column;
@@ -167,6 +167,7 @@ html, body {
     width: 100%;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 30px
 }
 
 .tip-info {
