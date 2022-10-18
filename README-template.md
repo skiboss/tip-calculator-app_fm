@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [tip-calculator-app-files](https://github.com/skiboss/tip-calculator-app_fm)
+- Live Site URL: [tip-calulator-site](https://skiboss.github.io/tip-calculator-app_fm/)
 
 ## My process
 - Draft out how I want the layout to look
